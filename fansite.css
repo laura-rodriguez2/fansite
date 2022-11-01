@@ -1,0 +1,14 @@
+#banner{
+    background-image: url("medias/banner.jpg");
+    height: 680px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: -10%;
+}
+
+#banner aside{
+    float: right;
+    font-size: 10vh;
+    padding: 11%;
+    color: rgb(255, 255, 255);
+}
