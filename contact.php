@@ -15,7 +15,7 @@
     </header>
 
     <main>
-    <h3>Contact Form</h3>
+    <h3>Formulaire de contact</h3>
 
 <div class="container">
   <form action="/action_page.php">
@@ -25,17 +25,10 @@
     <label for="lname">Nom</label>
     <input type="text" id="lname" name="Nom" placeholder="Votre Nom">
 
-    <!-- <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="australia">Australia</option>
-      <option value="canada">Canada</option>
-      <option value="usa">USA</option>
-    </select> -->
-
     <label for="subject">Votre demande</label>
     <textarea id="subject" name="subject" placeholder="" style="height:200px"></textarea>
 
-    <input type="submit" value="Submit">
+    <input type="submit" value="Envoyer">
   </form>
 </div>
       
